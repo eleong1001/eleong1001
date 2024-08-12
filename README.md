@@ -2,8 +2,10 @@
 - 👀 I’m interested in bring a humanities persepective to all things technology.
 - 🌱 I’m currently learning about machine architecture, data structures, and web design
 - 💡 Current Project - Building a functional full-stack webapp for my personal tailoring business
-- 📫 How to reach me eleong1313@gmail.com
+  - Check It Out!! -> [Tailor WebApp Repo](https://github.com/eleong1001/tailorwebapp)
 - 😄 Pronouns: He/Him
+- 📫 How to reach me eleong1313@gmail.com
+
 
 
 
